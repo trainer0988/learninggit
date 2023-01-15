@@ -1,0 +1,7 @@
+.project
+.classpath
+target
+test-output
+PDFReport
+.settings
+.git
